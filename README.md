@@ -9,7 +9,7 @@ Step 1: You go to the taskbar and type cmd => then you right-click Command Promp
 Step 2: You type the command “slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 <img alt="    " src="https://i.ibb.co/3pzGXDL/Virtual-Box-Windows-11-21-07-2021-16-48-16.png"/>
 
-Step 3: You use the command “slmgr /skms 192.168.0.1” to connect to my KMS server.
+Step 3: You use the command “slmgr /skms 192.168.0.1” 
 
 <img alt="    " src="       "/>
 
