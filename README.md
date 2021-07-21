@@ -13,7 +13,7 @@ Step 3: You use the command “slmgr /skms 192.168.0.1”
 
 <img alt="    " src="       "/>
 
-Step 4: Then you type the command “slmgr.vbs /ato”.
+Step 4: Then you type the command “slmgr /ato”.
 
 <img alt="   " src="           "/>
 
