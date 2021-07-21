@@ -11,11 +11,11 @@ Step 2: You type the command “slmgr.vbs /ipk Windows 11 license key
 
 Step 3: You use the command “slmgr.vbs /skms kms.xxxxxx.com” to connect to my KMS server.
 
-<img alt="CMD" src="https://i.ibb.co/3pzGXDL/Virtual-Box-Windows-11-21-07-2021-16-48-16.png"/>
+<img alt="CMD" src="       "/>
 
 Step 4: Then you type the command “slmgr.vbs /ato”.
 
-<img alt="CMD" src="https://i.ibb.co/3pzGXDL/Virtual-Box-Windows-11-21-07-2021-16-48-16.png"/>
+<img alt="CMD" src="           "/>
 
 
 Done.
