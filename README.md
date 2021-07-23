@@ -151,6 +151,9 @@ Step 4: Then you type the command “slmgr /ato”.
 
 <img alt="   " src="https://i.ibb.co/N3Rx9kK/2.png"/>
 
+檢查Windows是否啟動成功
+
+接下請按 Windows[開始] 標誌鍵  > [設定]  > [更新興安全性]  > [啟用]。檢查您目前執行的 Windows 作業系統授權資訊，若是出現「已啟動」表示剛剛做的KMS有正確啟動成功
 <img alt="   " src="https://i.ibb.co/4T3JVHT/3.png"/>
 Done.
 
