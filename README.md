@@ -123,12 +123,38 @@
 <td>WMDGN-G9PQG-XVVXX-R3X43-63DFG</td>
 </tr>
 </div>
+<p><span id="ezoic-pub-ad-placeholder-147" class="ezoic-adpicker-ad"></span></p>          <nav class="pagination group">
+</nav><!--/.pagination-->
+</div>
+
+
+</tr>
+</tbody>
+</table>
+</div>
+<p><span id="ezoic-pub-ad-placeholder-147" class="ezoic-adpicker-ad"></span></p>          <nav class="pagination group">
+</nav><!--/.pagination-->
+</div>
+Step 1: You go to the taskbar and type cmd => then you right-click Command Prompt and select Run as administrator
+<img alt="      " src="https://i.ibb.co/m8j8PrS/Virtual-Box-Windows-11-21-07-2021-16-48-16.png"/>
 
 
 
+Step 2: You type the command “slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+<img alt="    " src="https://i.ibb.co/3pzGXDL/Virtual-Box-Windows-11-21-07-2021-16-48-16.png"/>
+
+Step 3: You use the command “slmgr /skms 192.168.0.1” 
+
+<img alt="    " src="       "/>
+
+Step 4: Then you type the command “slmgr /ato”.
+
+<img alt="   " src="           "/>
 
 
+Done.
 
+</div>
 
 
 
