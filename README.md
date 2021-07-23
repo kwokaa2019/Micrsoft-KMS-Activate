@@ -140,7 +140,7 @@ Step 1: You go to the taskbar and type cmd => then you right-click Command Promp
 
 
 
-Step 2: You type the command “slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+Step 2: You type the command “slmgr /ipk NXXXB-XXXXQ-CXXVXX-XX2XF-XX8XJ
 <img alt="    " src="https://i.ibb.co/3pzGXDL/Virtual-Box-Windows-11-21-07-2021-16-48-16.png"/>
 
 Step 3: You use the command “slmgr /skms 192.168.0.1” 
