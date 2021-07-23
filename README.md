@@ -96,10 +96,33 @@
 <tr>
 <td style="text-align: center; width: 276px;">Windows 10 Enterprise LTSC 2019 N</td>
 <td style="text-align: center; width: 288px;">92NFX-8DJQP-P6BBQ-THF9C-7CG2H</td>
+</tbody>
+</table>
+</div>
+<p><span id="ezoic-pub-ad-placeholder-147" class="ezoic-adpicker-ad"></span></p>          <nav class="pagination group">
+</nav><!--/.pagination-->
+</div>
+
+
+<table style="height: 1092px;">
+<tbody>
+<tr style="height: 26px;">
+<td style="text-align: center; width: 276px; height: 26px;">Windows 版本</td>
+<td style="text-align: center; width: 68px; height: 26px;">安裝金鑰</td>
 
 </tr>
-
-
+<tr style="height: 26px;">
+<td>Windows Server 2019 Standard版</td>
+<td>N69G4-B89J2-4G8F4-WWYCC-J464C </td>
+</tr>
+<tr>
+<td>Windows Server 2019 Essentials</td>
+<td>WVDHN-86M7X-466P6-VHXV7-YY726</td>
+</tr>
+<td>Windows Server 2019 Datacenter</td>
+<td>WMDGN-G9PQG-XVVXX-R3X43-63DFG</td>
+</tr>
+</div>
 
 
 
