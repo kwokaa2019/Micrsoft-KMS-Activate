@@ -145,13 +145,13 @@ Step 2: You type the command “slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 
 Step 3: You use the command “slmgr /skms 192.168.0.1” 
 
-<img alt="    " src="       "/>
+<img alt="    " src="https://i.ibb.co/rkXvgKh/image.png"/>
 
 Step 4: Then you type the command “slmgr /ato”.
 
-<img alt="   " src="           "/>
+<img alt="   " src="https://i.ibb.co/N3Rx9kK/2.png"/>
 
-
+<img alt="   " src="https://i.ibb.co/4T3JVHT/3.png"/>
 Done.
 
 </div>
