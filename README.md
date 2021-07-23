@@ -1,4 +1,47 @@
-</p><h3>Windows 11 Activation keys All version</h3><table id="tablepress-12" class="tablepress tablepress-id-12"><thead><tr class="row-1"><th class="column-1">WINDOWS 11 EDITION</th><th class="column-2">PRODUCT KEY</th></tr></thead><tbody><tr class="row-2"><td class="column-1">Windows 11 Enterprise G</td><td class="column-2"> YYVX9-NTFWV-6MDM3-9PT4T-4M68B</td></tr><tr class="row-3"><td class="column-1">Windows 11 S (Lean)</td><td class="column-2">NBTWJ-3DR69-3C4V8-C26MC-GQ9M6</td></tr><tr class="row-4"><td class="column-1">Windows 11 Pro build</td><td class="column-2">VK7JG-NPHTM-C97JM-9MPGT-3V66T</td></tr><tr class="row-5"><td class="column-1">Windows Professional Education</td><td class="column-2">6TP4R-GNPTD-KYYHQ-7B7DP-J447Y</td></tr><tr class="row-6"><td class="column-1">Windows 11 Education N</td><td class="column-2"> 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ</td></tr><tr class="row-7"><td class="column-1">Windows 11 Core Key</td><td class="column-2">33QT6-RCNYF-DXB4F-DGP7B-7MHX9</td></tr><tr class="row-8"><td class="column-1">Windows 11 Enterprise LTSC Key</td><td class="column-2">92NFX-8DJQP-P6BBQ-THF9C-7CG2H</td></tr><tr class="row-9"><td class="column-1">Windows 11 Pro N</td><td class="column-2">MH37W-N47XK-V7XM9-C7227-GCQG9</td></tr><tr class="row-10"><td class="column-1">Windows 11 Pro for Workstations</td><td class="column-2">NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J</td></tr><tr class="row-11"><td class="column-1">Windows 11 Pro </td><td class="column-2">W269N-WFGWX-YVC9B-4J6C9-T83GX</td></tr></tbody></table>
+</p><h3>Windows 11 Activation keys All version</h3><table id="tablepress-12" class="tablepress tablepress-id-12"><thead><tr class="row-1"><th class="column-1">Windows 11 </th><th class="column-2">PRODUCT KEY</th></tr></thead><tbody><tr class="row-2"><td class="column-1">Windows 11 Enterprise G</td><td class="column-2"> YYVX9-NTFWV-6MDM3-9PT4T-4M68B</td></tr><tr class="row-3"><td class="column-1">Windows 11 S (Lean)</td><td class="column-2">NBTWJ-3DR69-3C4V8-C26MC-GQ9M6</td></tr><tr class="row-4"><td class="column-1">Windows 11 Pro build</td><td class="column-2">VK7JG-NPHTM-C97JM-9MPGT-3V66T</td></tr><tr class="row-5"><td class="column-1">Windows Professional Education</td><td class="column-2">6TP4R-GNPTD-KYYHQ-7B7DP-J447Y</td></tr><tr class="row-6"><td class="column-1">Windows 11 Education N</td><td class="column-2"> 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ</td></tr><tr class="row-7"><td class="column-1">Windows 11 Core Key</td><td class="column-2">33QT6-RCNYF-DXB4F-DGP7B-7MHX9</td></tr><tr class="row-8"><td class="column-1">Windows 11 Enterprise LTSC Key</td><td class="column-2">92NFX-8DJQP-P6BBQ-THF9C-7CG2H</td></tr><tr class="row-9"><td class="column-1">Windows 11 Pro N</td><td class="column-2">MH37W-N47XK-V7XM9-C7227-GCQG9</td></tr><tr class="row-10"><td class="column-1">Windows 11 Pro for Workstations</td><td class="column-2">NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J</td></tr><tr class="row-11"><td class="column-1">Windows 11 Pro </td><td class="column-2">W269N-WFGWX-YVC9B-4J6C9-T83GX</td></tr></tbody></table>
+
+
+<table class="table">
+<caption class="visually-hidden"></caption>
+<thead>
+<tr>
+<th>Windows Server 2022 </th>
+<th>KMS Client Setup Key</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Windows Server 2022 Datacenter數據中心版</td>
+<td>WX4NM-KYWYW-QJJR4-XV3QB-6VM33</td>
+</tr>
+<tr>
+<td>Windows Server 2022 Standard標準版</td>
+<td>VDYBN-27WPP-V4HQT-9VMD4-VMK7H</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><span id="ezoic-pub-ad-placeholder-147" class="ezoic-adpicker-ad"></span></p>          <nav class="pagination group">
+</nav><!--/.pagination-->
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Step 1: You go to the taskbar and type cmd => then you right-click Command Prompt and select Run as administrator
