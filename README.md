@@ -1,6 +1,8 @@
-<p>注意</p>
-若要使用GVLK的金鑰，您必先部署中好一台已運行中的 KMS 主機(可以部署在一台行 Micrsoft windwos 作業系統 /Linux 作業系統 /無線路由器。</strong> 如果您尚未設定 KMS 主機，請參閱 <a href="https://github.com/kwokaa2019/vlmcsd-KMS" data-linktype="absolute-path">vlmcsd-KMS</a> 的步驟來安裝一部 KMS 主機。</p>
+
 <p>如果您確定要將電腦 Windows 零售版 轉換成 大量授權版，請從下表格中尋找您目前已安裝好的相同版本的 (GVLK)KEY 。 
+
+
+  
 <table>
 <thead>
 <tr>
@@ -10,7 +12,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -41,7 +43,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -61,7 +63,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -80,7 +82,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -103,7 +105,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -126,7 +128,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -186,7 +188,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -205,7 +207,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -224,7 +226,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -244,7 +246,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -263,7 +265,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -282,7 +284,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -305,7 +307,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -348,7 +350,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -383,7 +385,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -431,7 +433,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -458,7 +460,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
@@ -485,7 +487,7 @@
 <thead>
 <tr>
 <th>作業系統版本</th>
-<th>KMS 用戶端安裝識別碼</th>
+<th>產品金鑰</th>
 </tr>
 </thead>
 <tbody>
