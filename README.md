@@ -156,7 +156,6 @@ Done.
 
 You check the activation status again.
 <img alt="   " src="https://i.ibb.co/4T3JVHT/3.png"/>
-Done.
 
 </div>
 
