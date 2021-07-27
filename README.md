@@ -140,7 +140,7 @@ Step 1: You go to the taskbar and type cmd => then you right-click Command Promp
 
 
 
-Step 2: You type the command “slmgr /ipk NXXXB-XXXXQ-CXXVX-XX2XF-XX8XJ
+Step 2: You type the command “slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 <img alt="    " src="https://i.ibb.co/3pzGXDL/Virtual-Box-Windows-11-21-07-2021-16-48-16.png"/>
 
 Step 3: You use the command “slmgr /skms 192.168.0.1” 
@@ -151,9 +151,10 @@ Step 4: Then you type the command “slmgr /ato”.
 
 <img alt="   " src="https://i.ibb.co/N3Rx9kK/2.png"/>
 
-檢查Windows是否啟動成功
+Done.
 
-接下請按 Windows[開始] 標誌鍵  > [設定]  > [更新興安全性]  > [啟用]。檢查您目前執行的 Windows 作業系統授權資訊，若是出現「已啟動」表示剛剛做的KMS有正確啟動成功
+
+You check the activation status again.
 <img alt="   " src="https://i.ibb.co/4T3JVHT/3.png"/>
 Done.
 
