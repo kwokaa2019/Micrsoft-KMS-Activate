@@ -143,7 +143,7 @@ Step 1: You go to the taskbar and type cmd => then you right-click Command Promp
 Step 2: You type the command “slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 <img alt="    " src="https://i.ibb.co/3pzGXDL/Virtual-Box-Windows-11-21-07-2021-16-48-16.png"/>
 
-Step 3: You use the command “slmgr /skms 192.168.0.1” 
+Step 3: You use the command “slmgr /skms KMS.xxxxx.com” 
 
 <img alt="    " src="https://i.ibb.co/rkXvgKh/image.png"/>
 
