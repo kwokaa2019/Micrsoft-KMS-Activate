@@ -30,6 +30,10 @@
 <td>NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J</td>
 </tr>
 <tr>
+<td>Windows 11 Pro  Enterprise </td>
+<td>6TP4R-GNPTD-KYYHQ-7B7DP-J447Y</td>
+</tr>
+<tr>
 <td>Windows 11 Enterprise</td>
 <td>NPPR9-FWDCX-D2C8J-H872K-2YT43</td>
 </tr>
