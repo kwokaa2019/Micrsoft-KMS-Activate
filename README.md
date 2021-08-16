@@ -17,6 +17,11 @@
 </thead>
 <tbody>
 <tr>
+<td>Windows 11 Home </td>
+<td>TX9XD-98N7V-6WMQ6-BX7FG-H8Q99  </td>
+</tr>
+<tr>
+<tr>
 <td>Windows 11 Pro </td>
 <td>W269N-WFGWX-YVC9B-4J6C9-T83GX </td>
 </tr>
@@ -26,11 +31,11 @@
 </tr>
 <tr>
 <td>Windows 11 Enterprise</td>
-<td> 	92NFX-8DJQP-P6BBQ-THF9C-7CG2H</td>
+<td>NPPR9-FWDCX-D2C8J-H872K-2YT43</td>
 </tr>
 <tr>
 <td>Windows 11 Education </td>
-<td>                   </td>
+<td>NW6C2-QMPVW-D7KKK-3GKT6-VCFB2</td>
 </tr>
 </tbody>
 </table>
