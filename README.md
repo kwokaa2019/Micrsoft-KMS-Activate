@@ -1,6 +1,4 @@
-<p>Micrsoft Windows 11 預覽版/Beta 版本，請<a href="https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso?wa=wsignin1.0&lc=1033">按此處</a>前往Microsoft官方網站下載</p>
-
-<p>其他Micrsoft Windows版本 (GVLK)產品密鑰 ，請<a href="https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys" data-linktype="external">按此處</a>參考Microsoft官方說明網站</p>
+<p>Micrsoft Windows 11 版本，其他Micrsoft Windows版本 (GVLK)產品密鑰 ，請<a href="https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys" data-linktype="external">按此處</a>參考Microsoft官方說明網站</p>
 
 
 <table>
