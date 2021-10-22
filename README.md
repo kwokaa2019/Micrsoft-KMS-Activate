@@ -1,4 +1,9 @@
-<p>適用於 Microsoft Windows 10  及 Micrsoft Windows 11 所有版本，其他Micrsoft Windows版本 (GVLK)產品密鑰 ，請<a href="https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys" data-linktype="external">按此處</a>參考Microsoft官方說明網站</p>
+<p>下列的通用產品金鑰適用於 Microsoft Windows 10  及 Micrsoft Windows 11 所有版本，
+  
+其他Micrsoft Windows版本 (GVLK)產品密鑰 ，請<a href="https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys" data-linktype="external">按此處</a>參考Microsoft官方說明網站</p>
+
+
+<p>適用於 Microsoft Office 所有版本(GVLK)產品密鑰 ，請<a href="https://docs.microsoft.com/zh-tw/DeployOffice/vlactivation/gvlks" data-linktype="external">按此處</a>參考Microsoft官方說明網站</p>
 
 
 <table>
