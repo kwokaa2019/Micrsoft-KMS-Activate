@@ -1,6 +1,4 @@
-<p>下列的通用產品金鑰適用於 Microsoft Windows 10  及 Micrsoft Windows 11 所有版本，
-  
-其他Micrsoft Windows版本 (GVLK)產品密鑰 ，請<a href="https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys" data-linktype="external">按此處</a>參考Microsoft官方說明網站</p>
+<p>Micrsoft Windows All 版本的 (GVLK)產品密鑰 ，請<a href="https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys" data-linktype="external">按此處</a>參考Microsoft官方說明網站</p>
 
 
 <p>適用於 Microsoft Office 所有版本(GVLK)產品密鑰 ，請<a href="https://docs.microsoft.com/zh-tw/DeployOffice/vlactivation/gvlks" data-linktype="external">按此處</a>參考Microsoft官方說明網站</p>
@@ -10,42 +8,7 @@
 <thead>
 <tr>
 
-<h3 id="Windows 11">Windows 11</h3>
-<table>
-<thead>
-<tr>
-<th>作業系統版本</th>
-<th>產品金鑰</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Windows 11 Home </td>
-<td>TX9XD-98N7V-6WMQ6-BX7FG-H8Q99  </td>
-</tr>
-<tr>
-<tr>
-<td>Windows 11 Pro </td>
-<td>W269N-WFGWX-YVC9B-4J6C9-T83GX </td>
-</tr>
-<tr>
-<td>Windows 11 Pro  Workstations </td>
-<td>NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J</td>
-</tr>
-<tr>
-<td>Windows 11 Pro  Enterprise </td>
-<td>6TP4R-GNPTD-KYYHQ-7B7DP-J447Y</td>
-</tr>
-<tr>
-<td>Windows 11 Enterprise</td>
-<td>NPPR9-FWDCX-D2C8J-H872K-2YT43</td>
-</tr>
-<tr>
-<td>Windows 11 Education </td>
-<td>NW6C2-QMPVW-D7KKK-3GKT6-VCFB2</td>
-</tr>
-</tbody>
-</table>
+
   
   
 
