@@ -2,7 +2,7 @@
 </div>
 
 
-Micrsoft Office Professional Plus 2019 /2021 Retail 官方原版轉換為VL 版
+Micrsoft Office Professional Plus 2019 /2021 Retail 官方原版轉換為VL版簡單的方法
 
 <p> Office Professional Plus 2019 簡單的激活方法：<br/>當您安装完成 Office Professional Plus 2019 Retail 官方原版後，將下面的代碼保存為 .bat 文件，然後以管理員的權限運行，即可一步完成所有的激活操作</p>
 <pre><code>if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16"
